@@ -1,0 +1,13 @@
+├─build 
+│ ├─webpack.base.config.js 
+│ ├─webpack.config.js 
+│ ├─webpack.dev.config.js 
+│ └─webpack.pro.config.js 
+├─package-lock.json 
+├─package.json 
+├─src 
+│ ├─index.js 
+│ ├─index.ts 
+│ └─tpl 
+│   └─index.html 
+└─tsconfig.json 
